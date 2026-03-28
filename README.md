@@ -5,13 +5,11 @@ This project analyzes customer behavior using the RFM (Recency, Frequency, Monet
 
 It helps businesses understand customer value and take data-driven decisions for retention and marketing strategies.
 
----
 
 ## 🛠️ Tools & Technologies
 - SQL
 - Excel (Dataset)
 
----
 
 ## 📈 Key Features
 - RFM Score Calculation (Recency, Frequency, Monetary)
@@ -19,7 +17,6 @@ It helps businesses understand customer value and take data-driven decisions for
 - Churn Risk Analysis
 - Business Recommendations for each segment
 
----
 
 ## 🧠 SQL Concepts Used
 - Common Table Expressions (CTE)
@@ -27,26 +24,27 @@ It helps businesses understand customer value and take data-driven decisions for
 - Aggregations (SUM, COUNT)
 - CASE Statements
 
----
 
 ## 📊 Insights
 - Customers with high recency are at high churn risk
 - Loyal customers contribute significantly to revenue
 - Targeted offers can improve customer retention
 
----
 
 ## 📷 Output Preview
 ![Output](output.png)
 
----
 
 ## 📁 Files Included
 - `rfm_analysis.sql` – SQL queries
 - `rfm_final_data.csv` – Dataset used
 - `output.png` – Query output screenshot
 
----
+  ## ▶️ How to Use
+1. Open the SQL file in any SQL environment  
+2. Run the queries step by step  
+3. Analyze the output for customer segmentation insights  
+
 
 ## 🚀 Conclusion
 This project demonstrates how SQL can be used to perform customer segmentation and derive actionable business insights.
