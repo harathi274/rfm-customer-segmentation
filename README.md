@@ -18,6 +18,14 @@ It helps businesses understand customer value and take data-driven decisions for
 - Business Recommendations for each segment
 
 
+ ## 🔄 Project Workflow
+1. Load dataset  
+2. Calculate Recency, Frequency, Monetary values  
+3. Assign RFM scores using SQL  
+4. Segment customers  
+5. Analyze results   
+
+
 ## 🧠 SQL Concepts Used
 - Common Table Expressions (CTE)
 - Window Functions (NTILE)
@@ -43,7 +51,14 @@ It helps businesses understand customer value and take data-driven decisions for
   ## ▶️ How to Use
 1. Open the SQL file in any SQL environment  
 2. Run the queries step by step  
-3. Analyze the output for customer segmentation insights  
+3. Analyze the output for customer segmentation insights
+
+   
+## 💼 Business Use Case
+Businesses can use this analysis to:
+- Identify high-value customers
+- Target at-risk customers with offers
+- Improve customer retention strategies
 
 
 ## 🚀 Conclusion
